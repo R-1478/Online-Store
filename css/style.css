@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+img {
+  max-width: 300px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: #2980b9;
+}
+
+.liked {
+  color: red;
+}
+
+input, textarea {
+  width: 80%;
+  padding: 5px;
+  margin: 10px;
+}
+
+textarea {
+  height: 100px;
+}
+
+#factDisplay {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-height: 100px;
+}
