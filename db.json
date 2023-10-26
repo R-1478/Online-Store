@@ -89,6 +89,30 @@
     },
     {
       "fact": "All dogs are the descendant of the wolf. These wolves lived in eastern Asia about 15,000 years ago"
- }]
+ },
+ {"fact": "The Great Wall of China is over 13,000 miles long."},
+ {"fact": "Cleopatra was the last pharaoh of Egypt."},
+ {"fact": "The first successful powered airplane was invented by the Wright brothers in 1903."},
+ {"fact": "Leonardo da Vinci painted the Mona Lisa in the early 16th century."},
+ {"fact": "The Titanic sank on its maiden voyage in 1912."},
+ {"fact": "The Declaration of Independence was adopted on July 4, 1776."},
+ {"fact": "The French Revolution began in 1789."},
+ {"fact": "Albert Einstein formulated the theory of relativity in the early 20th century."},
+ {"fact": "The Industrial Revolution transformed society in the 18th and 19th centuries."},
+ {"fact": "Christopher Columbus reached the Americas in 1492."},
+ {"fact": "The Battle of Gettysburg was a pivotal moment in the American Civil War in 1863."},
+ {"fact": "The printing press was invented by Johannes Gutenberg around 1440."},
+ {"fact": "The ancient city of Rome was founded in 753 BC."},
+ {"fact": "The first moon landing occurred in 1969 with the Apollo 11 mission."},
+ {"fact": "The Boston Tea Party took place in 1773."},
+ {"fact": "The Eiffel Tower was completed in 1889 for the Paris World's Fair."},
+ {"fact": "The Black Death, a devastating pandemic, swept through Europe in the 14th century."},
+ {"fact": "The American Revolution began in 1775."},
+ {"fact": "The Magna Carta was signed in 1215, limiting the power of the English monarchy."},
+ {"fact": "The Great Fire of London destroyed much of the city in 1666."},
+ {"fact": "The Statue of Liberty was a gift from France to the United States in 1886."},
+ {"fact": "The Cold War was a period of political tension between the U.S. and the Soviet Union in the mid-20th century."},
+ {"fact": "The Renaissance, a period of cultural and artistic rebirth, began in the 14th century."},
+ {"fact": "The ancient city of Athens was the birthplace of democracy."}]
 }
   
