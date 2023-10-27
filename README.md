@@ -52,11 +52,11 @@ You are not permitted to:
 
 ### 3. Warranty and Liability
 
-The contents of this repository are provided "as is," without any warranty or guarantee of fitness for any particular purpose. The author (John Doe) is not liable for any damages or issues arising from the use or distribution of this repository.
+The contents of this repository are provided "as is," without any warranty or guarantee of fitness for any particular purpose. The author  is not liable for any damages or issues arising from the use or distribution of this repository.
 
 ### 4. Attribution
 
-If you choose to use or distribute the contents of this repository, you must provide appropriate attribution to the original author, John Doe, and include a reference to the original source repository.
+If you choose to use or distribute the contents of this repository, you must provide appropriate attribution to the original author and include a reference to the original source repository.
 
 
 ## Changes to this License
@@ -66,5 +66,6 @@ John Doe reserves the right to make changes to this license as needed. Any modif
 By using, modifying, or distributing the contents of this repository, you agree to abide by the terms of this license.
 
 ---
+
 
 
