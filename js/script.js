@@ -8,8 +8,9 @@ const postCommentButton = document.getElementById("postCommentButton");
 const commentsList = document.getElementById("comments");
 const factImage = document.getElementById("factImage");
 
-let facts = [];
+ let facts = [];
 let currentIndex = 0;
+let backEndUrl = "https://tropics-facts-be.onrender.com/facts"
 
 // Fetch facts from the API
 fetchFacts();
@@ -19,16 +20,15 @@ likeButton.addEventListener("click", likeFact);
 postCommentButton.addEventListener("click", postComment);
 
 function fetchFacts() {
-  fetch("http://localhost:3000/facts")
+  
+  fetch(backEndUrl)
     .then((response) => response.json())
     .then((data) => {
       facts = data;
       displayFact(currentIndex);
       resetHeartColor(); // Call the resetHeartColor function when fetching facts
     })
-    .catch((error) => {
-      console.error("Error fetching facts:", error);
-    });
+    
 }
 
 function displayFact(index) {
@@ -36,7 +36,7 @@ function displayFact(index) {
     factDisplay.textContent = "No facts available.";
   } else {
     const fact = facts[index];
-    factDisplay.textContent = fact.fact;
+    factDisplay.textContent = facts.fact;
   }
 }
 
