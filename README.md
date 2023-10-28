@@ -61,7 +61,7 @@ If you choose to use or distribute the contents of this repository, you must pro
 
 ## Changes to this License
 
-John Doe reserves the right to make changes to this license as needed. Any modifications will be reflected in this document and will apply to future use and distribution of the repository.
+Evans Thitai reserves the right to make changes to this license as needed. Any modifications will be reflected in this document and will apply to future use and distribution of the repository.
 
 By using, modifying, or distributing the contents of this repository, you agree to abide by the terms of this license.
 
